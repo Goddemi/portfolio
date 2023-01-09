@@ -11,7 +11,7 @@
 Git : github.com/Goddemi/portfolio
 
  
-사용한 기술
+사용한
 기술 : React, Typescript
 
 상태관리 : React-Query
