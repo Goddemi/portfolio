@@ -3,7 +3,7 @@
 
 <div>프로젝트 소개</div>
 - 포트폴리오 사이트.
-<div></div>
+<div> </div>
 <div>배포 : http://portfolio0124.s3-website.ap-northeast-2.amazonaws.com</div>
 <div></div>
 <div>사용한 기술</div>
