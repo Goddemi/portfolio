@@ -1,14 +1,14 @@
 # HI this is my portfolio
 
 
-프로젝트 소개
+<div>프로젝트 소개</div>
 - 포트폴리오 사이트.
 
+<div>배포 : http://portfolio0124.s3-website.ap-northeast-2.amazonaws.com</div>
 
-배포 : http://portfolio0124.s3-website.ap-northeast-2.amazonaws.com
 
 
-사용한 기술
+<div>사용한 기술</div>
 기술 : React, Typescript
 
 상태관리 : React-Query
@@ -21,7 +21,7 @@ Css : Styled-components
 
 
 
-구현 기능 
+<div>구현 기능 </div>
 - React Query의 캐싱을 활용한 효율적인 통신 구현
 
 - Mock data와 useEffect, async / await 활용한 페이지별 data fetching
